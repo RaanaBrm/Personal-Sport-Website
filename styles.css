@@ -405,10 +405,11 @@ footer {
 /* Add padding to the body content so it's not hidden behind the footer */
 body {
   padding-bottom: 40px; /* Adjust this value to match t
-
+}
 
 /* Add padding to the body content so it's not hidden behind the footer */
 body {
   padding-bottom: 60px; /* Adjust based on the footer's height */
 }
 
+}
